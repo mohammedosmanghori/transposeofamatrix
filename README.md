@@ -1,2 +1,2 @@
 # transposeofamatrix
-it takes a matrix as a in
+it takes a matrix as a input as gives transpose of that
